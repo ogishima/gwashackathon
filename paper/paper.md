@@ -6,7 +6,7 @@ tags:
   - PubChem
   - unknown chemical substances
 authors:
-  - name: First Author
+  - name: Soich Ogishima
     affiliation: 1
     role: Writing – original draft
   - name: Last Author
